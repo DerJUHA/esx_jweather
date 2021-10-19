@@ -1,6 +1,6 @@
---------------------------------------------------------------------------
-########################## ESX JWeather ##################################
---------------------------------------------------------------------------
+--------------------
+### ESX JWeather ###
+--------------------
 
 Das ist ein Wetterscript, welches unabhängig von einem Echtzeitscript arbeiten kann. 
 In der server.lua kann die Einstellung vom Dynamischen Wetter aktiviert/deaktiviert werden. 
@@ -29,11 +29,11 @@ Admin Whitelist:
 
 Support zum Script gibt es beim CFX Forum-Thread, nur falls es Bugs geben sollte.
 
----------------------------------------------------------------------------
+--------------------
 
 Original von Vespura (vSync). Dennoch wird das Original nicht mehr weiterentwickelt laut dem Erstellerbeitrag.
 
 Update 17-12-2018
 I will no longer be maintaining/supporting this resource. The GitHub repo has been archived. Fork it if you want to update it yourself.
 
---------------------------------------------------------------------------
+--------------------
